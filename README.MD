@@ -2,16 +2,17 @@
 
 ![Capa - panda segurando computador](.github/assets/capa_artigo.png)
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este o repositório foio desenvolvido durante o curso no qual participei na [DIO](https://www.dio.me/sign-up?ref=HMIKRR3NGF) e tem caráter meramente educativo.
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://dio.me/articles/transforme-caos-em-insights-automatize-a-analise-de-big-data-com-python-e-pandas-c082de8c9582?utm_source=link&utm_campaign=mgm-transforme-caos-em-insights-automatize-a-analise-de-big-data-com-python-e-pandas-c082de8c9582&utm_medium=article"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
+- [ChatGPT](https://chat.openai.com/) - para título e criação e revisão do conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
+- [remove.bg](https://remove.bg) - para remover o fundo de imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
