@@ -1,6 +1,6 @@
 # Projeto artigo técnico gerado por I.A.s
 
-
+![Capa - panda segurando computador](.github/assets/capa_artigo.png)
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
 
