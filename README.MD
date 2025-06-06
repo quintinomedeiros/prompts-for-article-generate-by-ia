@@ -23,13 +23,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Crie 10 títulos que sejam interessantes, provocativos e que levem os leitores a desejarem ler o conteúdo de um artigo sobre Python, Pandas e Análise de Grandes Massas de Dados de maneira automatizada e simples                                                                                                                                                                                                   |
-| conteúdo | Crie um artigo educativo falando sobre como o pandas e o python revolucionaram a área de Big Data, trazendo simplicidade, velocidade e qualidade para a análise de grandes massas de dados, a partir das seguintes regras
-> Inclua um exemplo prático do uso do pandas com uma api gratuíta de big data e que seja prático e interessante. 
-> Inclua referências para os principais conceitos e bilbiotecas utilizadas no artigo,
-> Inclua subtítulos interessantes e atraentes para os leitores
-> Cada parágrafo deve ter no máximo 5 linhas
-> Incluir hashtags interessante ao final
-> Incluir um call for action para meu linkedin 
+| conteúdo | Crie um artigo educativo falando sobre como o pandas e o python revolucionaram a área de Big Data, trazendo simplicidade, velocidade e qualidade para a análise de grandes massas de dados, a partir das seguintes regras: Inclua um exemplo prático do uso do pandas com uma api gratuíta de big data e que seja prático e interessante. Inclua referências para os principais conceitos e bilbiotecas utilizadas no artigo. Inclua subtítulos interessantes e atraentes para os leitores. Cada parágrafo deve ter no máximo 5 linhas. Incluir hashtags interessante ao final. Incluir um call for action para meu linkedin 
 |
 
 
