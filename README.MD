@@ -51,12 +51,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
+
 <p>
-    <p>Quintino Medeiros<br>
-    <a href="https://github.com/quintinomedeiros">
-    GitHub</a>|
-    <a href="www.linkedin.com/in/
-quintinomedeiros">LinkedIn</a>
+ Quintino Medeiros<br>
+ <a href="https://github.com/quintinomedeiros">GitHub</a>
+ | 
+ <a href="www.linkedin.com/in/quintinomedeiros">LinkedIn</a>
 </p>
 
 
