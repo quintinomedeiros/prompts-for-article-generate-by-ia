@@ -52,22 +52,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspQuintino Medeiros<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/quintinomedeirose">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+quintinomedeiros">LinkedIn</a>
+</p>
 </p>
 <br/><br/>
 <p>
