@@ -22,8 +22,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Título  | Crie 10 títulos que sejam interessantes, provocativos e que levem os leitores a desejarem ler o conteúdo de um artigo sobre Python, Pandas e Análise de Grandes Massas de Dados de maneira automatizada e simples                                                                                                                                                                                                   |
+| conteúdo | Crie um artigo educativo falando sobre como o pandas e o python revolucionaram a área de Big Data, trazendo simplicidade, velocidade e qualidade para a análise de grandes massas de dados, a partir das seguintes regras
+[REGRAS]
+> Inclua um exemplo prático do uso do pandas com uma api gratuíta de big data e que seja prático e interessante. 
+> Inclua referências para os principais conceitos e bilbiotecas utilizadas no artigo,
+> Inclua subtítulos interessantes e atraentes para os leitores
+> Cada parágrafo deve ter no máximo 5 linhas
+> Incluir hashtags interessante ao final
+> Incluir um call for action para meu linkedin |
 
 
 Lexica.art：
