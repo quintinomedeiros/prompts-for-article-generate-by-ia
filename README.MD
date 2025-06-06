@@ -56,10 +56,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
  Quintino Medeiros<br>
  <a href="https://github.com/quintinomedeiros">GitHub</a>
  | 
- <a href="www.linkedin.com/in/quintinomedeiros">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/quintinomedeiros">LinkedIn</a>
 </p>
 
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
